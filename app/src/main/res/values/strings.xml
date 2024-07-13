@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarWarBlaster</string>
+    <string name="star_wars_blaster_tournament">Star Wars Blaster Tournament</string>
+    <string name="points_table">Points Table</string>
+    <string name="matches">Matches</string>
+    <string name="fetching_points">fetching points...</string>
+</resources>
